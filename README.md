@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-
-# Dicee 🎲
+# Dicee game in flutter 🎲
 
 ## Our Goal
 
