@@ -4,6 +4,8 @@
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+## SCREENSHOT
+![dice](https://github.com/ENGR-WAJAHAT-AHMED/Flutter_Dice_Game/assets/122207170/4cba6948-03a1-4437-903e-278d585a4bd4)
 
 
 ## What you will create
@@ -26,4 +28,3 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
